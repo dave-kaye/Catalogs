@@ -13,7 +13,7 @@ interactive astronomical software ephemeris.
   Directory” field in XEphem’s “Field Stars” window.  See the Reference
   Manual’s [Field
   Stars](https://xephem.github.io/XEphem/Site/help/xephem.html#mozTocId147305)
-  section for more details.
+  section for more details.  [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201&fileName=xephem-gsc2201)
 
 * `Official/` — Large collection of catalogs (weighing a total 1.1 GB)
   that, in the old days, shipped with XEphem on its installation media.
