@@ -31,3 +31,11 @@ Three catalogs have been contributed by Steve Mencinsky:
 
 * `recons100.edb` — is the complete census as of January 1, 2000, of
   objects outside our solar system known within 10 parsecs.
+
+## Download zip test
+
+see if you can download the zip of a part catalog
+
+* as zip [download](https://github.com/dave-kaye/Catalogs/downzip/gsc.zip/?raw=true)
+
+* as tar.gz [download](https://github.com/dave-kaye/Catalogs/downzip/gsc.tar.gz/?raw=true)
