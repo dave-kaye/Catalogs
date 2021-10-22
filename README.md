@@ -36,6 +36,6 @@ Three catalogs have been contributed by Steve Mencinsky:
 
 see if you can download the zip of a part catalog
 
-* as zip [download](https://github.com/dave-kaye/Catalogs/downzip/gsc.zip/?raw=true)
+* as zip [download](https://github.com/dave-kaye/Catalogs/tree/dnload/zipdown/gsc.zip/?raw=true)
 
-* as tar.gz [download](https://github.com/dave-kaye/Catalogs/downzip/gsc.tar.gz/?raw=true)
+* as tar.gz [download](https://github.com/dave-kaye/Catalogs/tree/dnload/zipdown/gsc.tar.gz/?raw=true)
