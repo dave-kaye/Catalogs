@@ -31,6 +31,8 @@ Three catalogs have been contributed by Steve Mencinsky:
 
 * `recons100.edb` — is the complete census as of January 1, 2000, of
   objects outside our solar system known within 10 parsecs.
+  
+  [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/XEphem/Catalogs/tree/main/contrib&fileName=xephem-contributed)
 
 ## Download zip test
 
