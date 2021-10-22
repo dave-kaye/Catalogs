@@ -14,6 +14,7 @@ interactive astronomical software ephemeris.
   Manual’s [Field
   Stars](https://xephem.github.io/XEphem/Site/help/xephem.html#mozTocId147305)
   section for more details.  [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201&fileName=xephem-gsc2201)
+  via downgit - fails due to too many files, misses some of them randomly
 
 * `Official/` — Large collection of catalogs (weighing a total 1.1 GB)
   that, in the old days, shipped with XEphem on its installation media.
@@ -33,11 +34,14 @@ Three catalogs have been contributed by Steve Mencinsky:
   objects outside our solar system known within 10 parsecs.
   
   [Download](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/contrib&fileName=xephem-contributed&rootDirectory=false)
+  via downgit - downloads all files, need to test accuracy
 
 ## Download zip test
 
-see if you can download the zip of a part catalog
+see if you can download the zip file of a part catalog that is in the directory tree
 
 * as zip [download](https://github.com/dave-kaye/Catalogs/blob/dnload/zipdown/gsc.zip/?raw=true)
 
 * as tar.gz [download](https://github.com/dave-kaye/Catalogs/blob/dnload/zipdown/gsc.tar.gz/?raw=true)
+
+both download - need to verify accurate download
