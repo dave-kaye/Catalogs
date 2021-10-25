@@ -20,7 +20,7 @@ interactive astronomical software ephemeris.
   
    [Download Northern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201/N*&fileName=xephem-gsc2201north&rootDirectory=GSC2201)  via downgit - fails due to invalid url (may not allow wildcard selection, then need to split directory into two)
    
-   [Download Southern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201/S*&fileName=xephem-gsc2201south&rootDirectory=GSC2201)  via downgit - fails due to invalid url (may not allow wildcard selection, then need to split directory into two)
+   [Download Southern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201&fileName=xephem-gsc2201south&rootDirectory=GSC2201)  via downgit - fails due to invalid url (may not allow wildcard selection, then need to split directory into two)
 
 * `Official/` — Large collection of catalogs (weighing a total 1.1 GB)
   that, in the old days, shipped with XEphem on its installation media.
