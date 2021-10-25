@@ -15,12 +15,12 @@ interactive astronomical software ephemeris.
   Stars](https://xephem.github.io/XEphem/Site/help/xephem.html#mozTocId147305)
   section for more details. 
   
-  [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201&fileName=xephem-gsc2201)
+  [Download](https://downgit.github.io//#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201&fileName=xephem-gsc2201)
   via downgit - fails due to too many files, misses some of them randomly.  files downloaded are accurate
   
-   [Download Northern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201/N*&fileName=xephem-gsc2201north&rootDirectory=GSC2201)
+   [Download Northern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201/N*&fileName=xephem-gsc2201north&rootDirectory=GSC2201)  via downgit - fails due to invalid url (may not allow wildcard selection, then need to split directory into two)
    
-   [Download Southern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201/S*&fileName=xephem-gsc2201south&rootDirectory=GSC2201)
+   [Download Southern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201/S*&fileName=xephem-gsc2201south&rootDirectory=GSC2201)  via downgit - fails due to invalid url (may not allow wildcard selection, then need to split directory into two)
 
 * `Official/` — Large collection of catalogs (weighing a total 1.1 GB)
   that, in the old days, shipped with XEphem on its installation media.
