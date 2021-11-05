@@ -18,9 +18,9 @@ interactive astronomical software ephemeris.
   [Download](https://downgit.github.io//#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201&fileName=xephem-gsc2201)
   via downgit - fails due to too many files, misses some of them randomly.  files downloaded are accurate
   
-   [Download Northern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201/N*&fileName=xephem-gsc2201north&rootDirectory=GSC2201)  via downgit - fails due to invalid url (may not allow wildcard selection, then need to split directory into two)
+   [Download Northern Stars](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/GSC2201/N*&fileName=xephem-gsc2201north&rootDirectory=GSC2201)  via downgit with wildcard partial directory - fails due to invalid url (may not allow wildcard selection, then need to split directory into two)
    
-    [Download Northern Stars](https://downgit.github.io/#/home?url=https://github.com/dave-kaye/Catalogs/tree/dnload/GSC2201North&fileName=xephem-gsc2201north&rootDirectory=false)  via downgit
+    [Download Northern Stars](https://downgit.github.io/#/home?url=https://github.com/dave-kaye/Catalogs/tree/dnload/GSC2201North&fileName=xephem-gsc2201north&rootDirectory=false)  via downgit of smaller separate directory - randomly succeeds and fails
    
 
 * `Official/` — Large collection of catalogs (weighing a total 1.1 GB)
@@ -41,14 +41,15 @@ Three catalogs have been contributed by Steve Mencinsky:
   objects outside our solar system known within 10 parsecs.
   
   [Download](https://downgit.github.io/#/home?url=https://github.com/XEphem/Catalogs/tree/main/contrib&fileName=xephem-contributed&rootDirectory=false)
-  via downgit - downloads all files in single zip, all files are accurate
+  via downgit - downloads all files (directory) in single zip, all files are accurate
 
 ## Download zip test
 
-see if you can download the zip file of a part catalog that is in the directory tree
+see if you can download the zip file of a catalog that is added to the directory tree
 
 * as zip [download](https://github.com/dave-kaye/Catalogs/blob/dnload/zipdown/gsc.zip/?raw=true)
 
 * as tar.gz [download](https://github.com/dave-kaye/Catalogs/blob/dnload/zipdown/gsc.tar.gz/?raw=true)
 
-both download and files are accurate
+both download links work and files are accurate
+size limited to under 100 MB per file
