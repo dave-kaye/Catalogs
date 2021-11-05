@@ -52,4 +52,4 @@ see if you can download the zip file of a catalog that is added to the directory
 * as tar.gz [download](https://github.com/dave-kaye/Catalogs/blob/dnload/zipdown/gsc.tar.gz/?raw=true)
 
 both download links work and files are accurate
-size limited to under 100 MB per file
+- size limited to under 100 MB per file
